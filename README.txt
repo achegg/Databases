@@ -25,3 +25,5 @@ Teachers also create accounts for the students which have a username an password
 Exams are graded automatically using procedures in SQL and the graded exam is viewable only by the student that took it.
 
 Teachers can view any student's exam, and since they can access the database directly, they can also change the data within the gradedexam table.
+
+More detailed description of each table used in the database is included in the FinalReport.pdf
